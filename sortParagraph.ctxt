@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=sortParagraph
+comment1.params=s
+comment1.target=int\ countWords(java.lang.String)
+comment2.params=w\ p
+comment2.target=void\ sort(java.lang.String[],\ int[])
+comment3.params=w\ p
+comment3.target=void\ printResult(java.lang.String[],\ int[])
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5
